@@ -91,7 +91,8 @@ Keep an eye on your survival time and score during gameplay! ⏱️
 
 **🎥 Demo Video**
 
-https://github.com/user-attachments/assets/3b14a945-b5c0-4686-8eca-ba35dd1f7c17
+https://github.com/user-attachments/assets/c0113be2-17fc-4e0b-af60-222a527f0559
+
 
 **📄 Project Report**
 
