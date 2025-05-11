@@ -42,25 +42,37 @@ pip install pygame pandas openpyxl
 **Run the game:**
 python pacman.py
 Type your name on the input screen. ✍️
+
 Click Start Game to dive in! 🟢
+
 Use arrow keys to guide Pac-Man, munch pellets, and evade the ghost. 🟡👻
+
 Press ESC to pause or resume. ⏸️
+
 Clear all pellets to level up; hit the ghost, and it’s game over! 😱
+
 Your stats (name, score, survival time, level) are saved to game_data.xlsx. 📂
 
 **🕹️ Controls**
 Arrow Keys: Move Pac-Man (up ⬆️, down ⬇️, left ⬅️, right ➡️).
+
 ESC: Pause/resume the game. ⏯️
+
 Enter: Submit your name on the input screen. ✅
+
 Mouse Click: Start or restart the game. 🖱️
 
 **📂 Files**
 pacman.py: The main game script. 🐍
+
 high_score.txt: Stores your high score (auto-generated). 🏅
+
 game_data.xlsx: Logs game data (auto-generated). 📊
 
 **💡 Notes**
 
 The ghost recalculates its path with a 10% chance per move for sneaky surprises! 😈
+
 Mazes are designed to always have a path between Pac-Man and the ghost. 🛤️
+
 Keep an eye on your survival time and score during gameplay! ⏱️
