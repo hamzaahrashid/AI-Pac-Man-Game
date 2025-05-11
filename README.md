@@ -36,7 +36,7 @@ Openpyxl (pip install openpyxl)
 **Installation**
 **Clone the repository:**
 
-git clone https://github.com/your-username/ai-pacman-game.git
+git clone https://github.com/hamzaahrashid/ai-pacman-game.git
 
 **Navigate to the project directory:**
 
