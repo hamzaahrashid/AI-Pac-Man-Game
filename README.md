@@ -97,3 +97,19 @@ https://github.com/user-attachments/assets/3b14a945-b5c0-4686-8eca-ba35dd1f7c17
 
 [AI_project_proposal(2).pdf](https://github.com/user-attachments/files/20149902/AI_project_proposal.2.pdf)
 
+**🖼️ Screenshots**
+
+![image](https://github.com/user-attachments/assets/6d071274-d288-49c8-9e2f-f8302857ea1e)
+
+
+![image](https://github.com/user-attachments/assets/9557ea11-ae07-4a96-97bd-bd6a66d04e52)
+
+
+![image](https://github.com/user-attachments/assets/786b810a-26c6-4991-8f44-47b26f8ba02b)
+
+
+![image](https://github.com/user-attachments/assets/87c2904d-9850-44c0-8e20-93f931078a34)
+
+
+![image](https://github.com/user-attachments/assets/39ba7254-e4ac-49ab-9e91-c2824c29ac9f)
+
