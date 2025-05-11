@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/49ad2a5b-7f05-4274-a97e-bbef44b3a522
 **🎮  AI Pac-Man Game 🟡👻**
 
 Welcome to AI Pac-Man Game, a thrilling modern twist on the classic Pac-Man! Built with Pygame, this game features a clever ghost powered by A* pathfinding, dynamic mazes, and score tracking saved to Excel. Gobble up pellets, dodge the ghost, and climb the levels! 🚀
@@ -88,3 +90,8 @@ The ghost recalculates its path with a 10% chance per move for sneaky surprises!
 Mazes are designed to always have a path between Pac-Man and the ghost. 🛤️
 
 Keep an eye on your survival time and score during gameplay! ⏱️
+
+
+https://github.com/user-attachments/assets/1c70380e-9205-4678-971b-5af2a0ab3f3b
+
+[AI_project_proposal(2).pdf](https://github.com/user-attachments/files/20149902/AI_project_proposal.2.pdf)
