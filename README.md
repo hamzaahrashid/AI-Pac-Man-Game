@@ -16,12 +16,17 @@ Welcome to AI Pac-Man Game, a thrilling modern twist on the classic Pac-Man! Bui
 
 **⌨️ User Input:** Enter your name and control Pac-Man with smooth keyboard inputs.
 
+
 **🛠️ Requirements**
 
 🐍 Python 3.x
+
 🎮 Pygame (pip install pygame)
+
 📈 Pandas (pip install pandas)
+
 📑 Openpyxl (pip install openpyxl)
+
 
 **🚀 Installation**
 
@@ -37,10 +42,13 @@ https://github.com/hamzaahrashid/AI-Pac-Man-Game in your browser
 
 pip install pygame pandas openpyxl
 
+
 **🎉 How to Play**
 
 **Run the game:**
+
 python pacman.py
+
 Type your name on the input screen. ✍️
 
 Click Start Game to dive in! 🟢
@@ -53,7 +61,9 @@ Clear all pellets to level up; hit the ghost, and it’s game over! 😱
 
 Your stats (name, score, survival time, level) are saved to game_data.xlsx. 📂
 
+
 **🕹️ Controls**
+
 Arrow Keys: Move Pac-Man (up ⬆️, down ⬇️, left ⬅️, right ➡️).
 
 ESC: Pause/resume the game. ⏯️
@@ -62,12 +72,14 @@ Enter: Submit your name on the input screen. ✅
 
 Mouse Click: Start or restart the game. 🖱️
 
+
 **📂 Files**
 pacman.py: The main game script. 🐍
 
 high_score.txt: Stores your high score (auto-generated). 🏅
 
 game_data.xlsx: Logs game data (auto-generated). 📊
+
 
 **💡 Notes**
 
