@@ -89,6 +89,11 @@ Mazes are designed to always have a path between Pac-Man and the ghost. 🛤️
 
 Keep an eye on your survival time and score during gameplay! ⏱️
 
+**TEAM MEMBERS:**
+
+Hamza Rashid
+Tanzil -Ur- Rehman
+
 **🎥 Demo Video**
 
 https://github.com/user-attachments/assets/c0113be2-17fc-4e0b-af60-222a527f0559
@@ -114,7 +119,3 @@ https://github.com/user-attachments/assets/c0113be2-17fc-4e0b-af60-222a527f0559
 
 ![image](https://github.com/user-attachments/assets/39ba7254-e4ac-49ab-9e91-c2824c29ac9f)
 
-**MEMBERS:**
-
-Hamza Rashid
-Tanzil -Ur- Rehman
