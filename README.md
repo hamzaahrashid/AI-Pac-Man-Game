@@ -1,4 +1,4 @@
-##**🎮 AI Pac-Man Game 🟡👻**
+**🎮 # AI Pac-Man Game 🟡👻**
 
 Welcome to AI Pac-Man Game, a thrilling modern twist on the classic Pac-Man! Built with Pygame, this game features a clever ghost powered by A* pathfinding, dynamic mazes, and score tracking saved to Excel. Gobble up pellets, dodge the ghost, and climb the levels! 🚀
 
